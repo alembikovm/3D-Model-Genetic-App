@@ -1,7 +1,7 @@
 # 3D Model Genetic App
 
 ## Description
-This is a test task for developing a frontend application using React, TypeScript, and Three.js.
+This is a pet project for training React, TypeScript, and Three.js skills.
 
 ## Installation and Setup
 1. Install dependencies:
